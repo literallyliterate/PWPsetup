@@ -35,7 +35,7 @@ Powershell scripts **must produce a .done marker file after completion** (New-It
 
 1. Create the Windows template with QEMU guest agent running
 
-2. Download the PWPsetup bash script and config file onto proxmox (wget https://raw.githubusercontent.com/literallyliterate/PWPsetup/main/PWPsetup.sh, wget https://raw.githubusercontent.com/literallyliterate/PWPsetup/main/vm_clone.conf)
+2. Copy over the PWPsetup bash script and config file onto proxmox
 
 3. Upload your powershell scripts to your cloud storage of choice
 
